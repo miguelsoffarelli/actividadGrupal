@@ -11,9 +11,11 @@ h1 {
 }
 
 #img1 {
-    border: 5px #bca080;
+    border: 5px solid #bca080;
     border-radius: 9px;
     height: 400px;
+}
+#container-img1 {
     display: flex;
     justify-content: center;
     align-items: center;
