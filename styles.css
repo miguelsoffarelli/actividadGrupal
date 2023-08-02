@@ -8,13 +8,33 @@ body {
     height: 400px;
 }
 
-.link-button {
-    font-style: sans-serif;
-    text-decoration: none;
-    color: black;
-    border: 1rem solid gray;
-    background-color: #f2f2f2;
-    padding: 3rem;
-    border-radius: 2rem;
-    box-shadow: 3rem 3rem #888888;
+#link-button {
+    font-family: sans-serif;
+    text-decoration: solid;
+    letter-spacing: 1px;
+    font-size: larger;
+    font-weight: 300;
+    color: lightgray;
+    border: 3px groove burlywood;
+    background-color: darkorange;
+    padding: 9px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px brown;
+ 
 }
+
+#link-button:hover{
+
+
+    color: crimson;
+    font-style: oblique;
+    font-stretch: narrower;
+    
+}
+
+#link-button:active {
+
+    color: darkred;
+}
+
