@@ -2,14 +2,29 @@ body {
     background-color: #68707E;
 }
 
-#img1 {
-    border: #bca080;
+
+h1 {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #514d50;
+    text-align: center;
+}
+
+#img2 {
+    border: 5px solid #bca080;
+    border-radius: 10px;
     border-radius: 9px;
     height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
     
+}
+
+#container-img2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .link-button {
