@@ -6,6 +6,7 @@ body {
     border: #bca080;
     border-radius: 9px;
     height: 400px;
+    text-align: center;
 }
 
 .link-button {
