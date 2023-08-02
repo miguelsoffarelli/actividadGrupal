@@ -10,6 +10,15 @@ h1 {
     text-align: center;
 }
 
+#img1 {
+    border: #bca080;
+    border-radius: 9px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #img2 {
     border: 5px solid #bca080;
     border-radius: 10px;
