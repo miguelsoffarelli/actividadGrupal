@@ -36,8 +36,40 @@ h1 {
     align-items: center;
 }
 
+
+#button2 {
+    font-family: sans-serif;
+    text-decoration: solid;
+    letter-spacing: 1px;
+    font-size: larger;
+    font-weight: 300;
+    color: lightgray;
+    border: 3px groove burlywood;
+    background-color: darkorange;
+    padding: 9px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px brown;
+ 
+}
+
+#button2:hover{
+
+
+    color: crimson;
+    font-style: oblique;
+    font-stretch: narrower;
+    
+}
+
+#button2:active {
+
+    color: darkred;
+}
+
+
 #button1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: arial;
     text-decoration: none;
     color: black;
     border: 1px solid #7c7c84;
@@ -46,3 +78,4 @@ h1 {
     border-radius: 8px;
     box-shadow: 2px 3px #888888;
 }
+
