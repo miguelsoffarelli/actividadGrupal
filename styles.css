@@ -11,7 +11,7 @@ h1 {
 }
 
 #img1 {
-    border: #bca080;
+    border: 5px #bca080;
     border-radius: 9px;
     height: 400px;
     display: flex;
