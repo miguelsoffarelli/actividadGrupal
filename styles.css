@@ -1,6 +1,7 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: #68707E;
 }
+
 
 h1 {
     font-size: 50px;
@@ -12,7 +13,9 @@ h1 {
 #img2 {
     border: 5px solid #bca080;
     border-radius: 10px;
+    border-radius: 9px;
     height: 400px;
+    text-align: center;
 }
 
 #container-img2 {
