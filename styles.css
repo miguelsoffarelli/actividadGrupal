@@ -9,11 +9,12 @@ body {
 }
 
 .link-button {
+    font-style: sans-serif;
     text-decoration: none;
     color: black;
-    border: 1px solid gray;
+    border: 1rem solid gray;
     background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
+    padding: 3rem;
+    border-radius: 2rem;
+    box-shadow: 3rem 3rem #888888;
 }
