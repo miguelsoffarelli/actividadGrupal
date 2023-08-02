@@ -2,10 +2,11 @@ body {
     background-color: #68707E;
 }
 
-.image{
-    border: 5px solid green;
-    border-radius: 10px;
+#img1 {
+    border: #bca080;
+    border-radius: 9px;
     height: 400px;
+    text-align: center;
 }
 
 .link-button {
